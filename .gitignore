@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Simulation and synthesis outputs
+build/
+sim_build/
+*.vcd
+*.fst
+*.wlf
+*.log
+*.jou
+*.pb
+*.str
+*.vpd
+*.vdb/
+csrc/
+simv
+simv.daidir/
+.Xil/
+.cache/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
