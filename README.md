@@ -6,26 +6,5 @@ This repository will contain a custom streaming hardware IP for classifying low-
 
 ## Planning documents
 
-- **[Initial plan — submit this file](plans/initial_plan.md)**: Complete course initial-plan submission, including mathematics, modules, and PS/IP interface table.
-- [Project proposal](project_proposal.md): A shorter overview of the project, scope, and planned demonstration.
-
-## Status
-
-Initial planning only. Hardware source code, testbenches, and performance measurements will be added after the plan is reviewed.
-
-## Course references
-
-- [Official project planning instructions](https://sdrangan.github.io/hwdesign/docs/projects/planning.html)
-- [Example initial plans](https://sdrangan.github.io/hwdesign/docs/projects/example_plans/)
-
-## Submitting the initial plan
-
-1. Create a **public** GitHub repository and add these files at the paths shown.
-2. Commit and push to the `main` branch.
-3. Submit the URL to `plans/initial_plan.md`, for example:
-
-   `https://github.com/YOUR_USERNAME/YOUR_REPO/blob/main/plans/initial_plan.md`
-
-4. Set the course grader timeout to **at least 100 seconds**.
-
-Only replace `YOUR_USERNAME` and `YOUR_REPO` after creating the real repository.
+- [Initial plan](plans/initial_plan.md): Project definition, mathematical operations, hardware architecture, and PS/IP interfaces.
+- [Project proposal](project_proposal.md): Overview of the project, scope, and planned demonstration.
